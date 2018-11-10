@@ -1,0 +1,40 @@
+{
+  "comments": [
+    {
+      "name": "user",
+      "text": "h",
+      "room_id": "9",
+      "id": 9
+    }
+  ],
+  "rooms": [
+    {
+      "roomName": "dd",
+      "name": "d",
+      "manager": true,
+      "user": false,
+      "id": 8
+    },
+    {
+      "roomName": "hafdz",
+      "name": "hfghdsfg",
+      "manager": true,
+      "user": true,
+      "id": 9
+    },
+    {
+      "roomName": "sdfhdsfhsj",
+      "name": "gsfjfgjfgjgj",
+      "manager": false,
+      "user": false,
+      "id": 10
+    },
+    {
+      "roomName": "аеало",
+      "name": "аолапл",
+      "manager": false,
+      "user": false,
+      "id": 11
+    }
+  ]
+}
